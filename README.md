@@ -33,20 +33,11 @@ A simple Blackjack game built with HTML, CSS, and JavaScript. In this game, the 
 <img width="478" height="435" alt="image" src="https://github.com/user-attachments/assets/29b72191-3ecc-4ace-b922-06cac9b06abd" />
 <img width="406" height="430" alt="image" src="https://github.com/user-attachments/assets/6e89b7a6-5541-464c-a68c-c2b8be9a9ab8" />
 
-
 ## Project Structure
 
 - `index.html` – structure of the game
 - `style.css` – styling of the game
 - `index.js` – game logic
-
-## Future Improvements
-
-- Add dealer logic
-- Add restart button
-- Improve card design
-- Track player chips or score
-- Fix card value handling for Ace
 
 ## Author
 
